@@ -71,7 +71,7 @@ insurance-automation/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/insurance-automation.git
+git clone https://github.com/swapnilpawar2876-lab/insurance-automation-framework.git
 cd insurance-automation
 ```
 
@@ -126,6 +126,6 @@ reports/screenshots/
 
 ## Author
 
-**Vaishnav Ghugare**  
-Automation & Quality Engineer  
-[LinkedIn](https://linkedin.com/in/YOUR-PROFILE) | [GitHub](https://github.com/YOUR-USERNAME)
+**Swapnil Pawar**  
+Automation Test Engineer 
+[LinkedIn](https://www.linkedin.com/in/swapnil-pawar-57296b214/) | [GitHub](https://github.com/swapnilpawar2876-lab)
